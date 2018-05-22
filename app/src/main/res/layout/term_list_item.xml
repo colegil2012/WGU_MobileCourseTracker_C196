@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:padding="4dp">
+
+    <ImageView
+        android:id="@+id/TermBookIcon"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:src="@drawable/ic_book_open_page_variant_grey600_36dp" />
+
+    <TextView
+        android:id="@+id/tvNote"
+        android:gravity="center_vertical"
+        android:layout_width="130dp"
+        android:layout_height="36dp"
+        android:paddingLeft="5dp"
+        android:layout_alignBottom="@+id/TermBookIcon"
+        android:layout_toEndOf="@+id/TermBookIcon"
+        android:singleLine="true"
+        android:text="@string/term"
+        android:textColor="@color/term_item_color"
+        android:textSize="21sp"
+        android:layout_toRightOf="@+id/TermBookIcon" />
+
+    <TextView
+        android:id="@+id/termDates"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/tvNote"
+        android:layout_toRightOf="@+id/tvNote" />
+
+</RelativeLayout>

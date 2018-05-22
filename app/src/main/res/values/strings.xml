@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WGU Course Tracker</string>
+    <string name="title_activity_term_list">All Terms</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="all_deleted">All entries deleted</string>
+    <string name="delete_all_notes">Delete All Notes</string>
+    <string name="create_sample_data">Create sample data</string>
+    <string name="title_activity_course_list">All Courses</string>
+    <string name="title_activity_edit_term">View/Edit Term</string>
+    <string name="choose_term_number">Choose Term Number:</string>
+    <string name="title_activity_assessment_list">All Assessments</string>
+    <string name="title_activity_view_term">View/Edit Term</string>
+    <string name="title_activity_view_course">View/Edit Course</string>
+    <string name="title_activity_edit_or_view_assessment">View/Edit Assessment</string>
+    <string name="go_home">Home</string>
+    <string name="view_all_terms">View All Terms</string>
+    <string name="view_all_courses">View All Courses</string>
+    <string name="view_all_assessments">View All Assessments</string>
+    <string name="assessment_name">Assessment Name</string>
+    <string name="type">Type</string>
+    <string name="course_number">Course Number</string>
+    <string name="set_alert">Set Alert</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="delete_assessment">Delete Assessment</string>
+    <string name="due_date">Due Date:</string>
+    <string name="view_assessments">View Assessments</string>
+    <string name="delete_course">Delete Course</string>
+    <string name="delete_term">Delete Term</string>
+    <string name="end">End:</string>
+    <string name="start">Start:</string>
+    <string name="term">Term</string>
+    <string name="course">Course</string>
+    <string name="course_dates">course dates</string>
+    <string name="status">Status:</string>
+</resources>
